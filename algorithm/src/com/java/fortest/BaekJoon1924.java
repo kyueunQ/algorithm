@@ -2,7 +2,7 @@ package com.java.fortest;
 
 import java.util.Scanner;
 
-public class BeakJoon1924 {
+public class BaekJoon1924 {
 
 	public static void main(String[] args) {
 		
