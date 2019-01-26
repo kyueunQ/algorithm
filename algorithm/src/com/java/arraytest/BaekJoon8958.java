@@ -1,5 +1,5 @@
 package com.java.arraytest;
 
-public class BeakJoon8958 {
+public class BaekJoon8958 {
 
 }

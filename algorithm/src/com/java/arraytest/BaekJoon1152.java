@@ -2,7 +2,7 @@ package com.java.arraytest;
 
 import java.util.Scanner;
 
-public class BeakJoon1152 {
+public class BaekJoon1152 {
 	
 	public static void main(String[] args) {
 		

@@ -2,7 +2,7 @@ package com.java.arraytest;
 
 import java.util.Scanner;
 
-public class BeakJoon10039 {
+public class BaekJoon10039 {
 	public static void main(String[] args) {
 		
 		Scanner sc = new Scanner(System.in);

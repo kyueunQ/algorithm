@@ -1,5 +1,5 @@
 package com.java.fortest;
 
-public class TESTEST {
+public class BaekJoon15552 {
 
 }
